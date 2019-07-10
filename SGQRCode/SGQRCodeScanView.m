@@ -63,7 +63,7 @@
     
     /// 边框 frame
     CGFloat borderW = scanBorderW;
-    CGFloat borderH = borderW;
+    CGFloat borderH = 1.3*borderW;
     CGFloat borderX = scanBorderX;
     CGFloat borderY = scanBorderY;
     CGFloat borderLineW = 0.2;
